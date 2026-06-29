@@ -1,2 +1,2 @@
 # AADAconnect-SmartPlug
-OTA Updates
+Firmware for the AADAconnect Smart Plug based on ESP-IDF.
